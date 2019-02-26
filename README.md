@@ -1,2 +1,2 @@
 # rcsstudiossv
-Desarrollo de mi peque cms
+Pronto estará disponible una copia "gratuita" de RCS-min
